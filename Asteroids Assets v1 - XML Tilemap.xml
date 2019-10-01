@@ -1,0 +1,40 @@
+<tilemap tileswide="6" tileshigh="6" tilewidth="64" tileheight="64">
+  <layer number="0" name="Ship">
+    <tile x="0" y="0" tile="-1" rot="0" flipX="false"/>
+    <tile x="1" y="0" tile="-1" rot="0" flipX="false"/>
+    <tile x="2" y="0" tile="-1" rot="0" flipX="false"/>
+    <tile x="3" y="0" tile="-1" rot="0" flipX="false"/>
+    <tile x="4" y="0" tile="-1" rot="0" flipX="false"/>
+    <tile x="5" y="0" tile="-1" rot="0" flipX="false"/>
+    <tile x="0" y="1" tile="-1" rot="0" flipX="false"/>
+    <tile x="1" y="1" tile="-1" rot="0" flipX="false"/>
+    <tile x="2" y="1" tile="-1" rot="0" flipX="false"/>
+    <tile x="3" y="1" tile="-1" rot="0" flipX="false"/>
+    <tile x="4" y="1" tile="-1" rot="0" flipX="false"/>
+    <tile x="5" y="1" tile="-1" rot="0" flipX="false"/>
+    <tile x="0" y="2" tile="-1" rot="0" flipX="false"/>
+    <tile x="1" y="2" tile="-1" rot="0" flipX="false"/>
+    <tile x="2" y="2" tile="-1" rot="0" flipX="false"/>
+    <tile x="3" y="2" tile="-1" rot="0" flipX="false"/>
+    <tile x="4" y="2" tile="-1" rot="0" flipX="false"/>
+    <tile x="5" y="2" tile="-1" rot="0" flipX="false"/>
+    <tile x="0" y="3" tile="-1" rot="0" flipX="false"/>
+    <tile x="1" y="3" tile="-1" rot="0" flipX="false"/>
+    <tile x="2" y="3" tile="-1" rot="0" flipX="false"/>
+    <tile x="3" y="3" tile="-1" rot="0" flipX="false"/>
+    <tile x="4" y="3" tile="-1" rot="0" flipX="false"/>
+    <tile x="5" y="3" tile="-1" rot="0" flipX="false"/>
+    <tile x="0" y="4" tile="-1" rot="0" flipX="false"/>
+    <tile x="1" y="4" tile="-1" rot="0" flipX="false"/>
+    <tile x="2" y="4" tile="-1" rot="0" flipX="false"/>
+    <tile x="3" y="4" tile="-1" rot="0" flipX="false"/>
+    <tile x="4" y="4" tile="-1" rot="0" flipX="false"/>
+    <tile x="5" y="4" tile="-1" rot="0" flipX="false"/>
+    <tile x="0" y="5" tile="-1" rot="0" flipX="false"/>
+    <tile x="1" y="5" tile="-1" rot="0" flipX="false"/>
+    <tile x="2" y="5" tile="-1" rot="0" flipX="false"/>
+    <tile x="3" y="5" tile="-1" rot="0" flipX="false"/>
+    <tile x="4" y="5" tile="-1" rot="0" flipX="false"/>
+    <tile x="5" y="5" tile="-1" rot="0" flipX="false"/>
+  </layer>
+</tilemap>
