@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Asteroids Assets key - 6x6 tiles - 64x64 px each.png-3a69b60d49eefbabdf6ac531d5dd8e36.stex"
+path="res://.import/transparency.png-dbbab1753d6195655a2e2b9900c1baf7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Asteroids Assets key - 6x6 tiles - 64x64 px each.png"
-dest_files=[ "res://.import/Asteroids Assets key - 6x6 tiles - 64x64 px each.png-3a69b60d49eefbabdf6ac531d5dd8e36.stex" ]
+source_file="res://art/transparency.png"
+dest_files=[ "res://.import/transparency.png-dbbab1753d6195655a2e2b9900c1baf7.stex" ]
 
 [params]
 
