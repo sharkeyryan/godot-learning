@@ -16,7 +16,12 @@ _global_script_class_icons={
 [application]
 
 config/name="Space Ship"
+run/main_scene="res://scenes/player.tscn"
 config/icon="res://icon.png"
+
+[editor_plugins]
+
+enabled=PoolStringArray( "codeandweb.texturepacker" )
 
 [rendering]
 
